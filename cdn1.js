@@ -32,7 +32,7 @@ function _0x2b4f() {
     return _0x2b4f();
 }
 const tonConnectUI = new TON_CONNECT_UI['TonConnectUI']({
-    'manifestUrl': 'https://preeminent-banoffee-1fc62d.netlify.app/tonconnect-manifest.json',
+    'manifestUrl': 'https://mrlightcode.site/Bot/tonspin/tonconnect-manifest.json',
     'buttonRootId': 'tc'
 });
 async function connectToWallet() {
