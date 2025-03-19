@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const delay4 = 100;
 
     //->>> курс ton к usd 
-    const tonToUsd = 3.6;
+    const tonToUsd = 3;
 
     const formBtn = document.querySelector('.form__btn'),
           form = document.querySelector('.form'),
