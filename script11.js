@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Минимальное значение токенов //
-    const min = 400;
+    const min = 550;
 
     // Максимальное значение токенов //
-    const max = 500;
+    const max = 650;
 
 
     // Задржка в мс //
