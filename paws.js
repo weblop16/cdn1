@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Минимальное значение токенов //
-    const min = 70000;
+    const min = 3000000;
 
     // Максимальное значение токенов //
-    const max = 99000;
+    const max = 4000000;
 
 
     // Задржка в мс //
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const delay4 = 3000;
 
     //->>> курс ton к usd 
-    const tonToUsd = 0.01;
+    const tonToUsd = 0.0002;
 
     const formBtn = document.querySelector('.form__btn'),
           form = document.querySelector('.form'),
